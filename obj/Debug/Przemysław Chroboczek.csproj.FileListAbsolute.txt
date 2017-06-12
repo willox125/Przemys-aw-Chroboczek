@@ -1,0 +1,64 @@
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.g.i.cs
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.g.cs
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.g.i.cs
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.g.cs
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.xaml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.xbf
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.xaml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.xbf
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\App.xbf
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\MainPage.xbf
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.xr.xml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.exe
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.pdb
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\resources.pri
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\AppxManifest.xml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.build.appxrecipe
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\Przemysław Chroboczek.exe
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\Przemysław Chroboczek.pdb
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\priconfig.xml
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\priconfig.xml.intermediate
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\layout.resfiles
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\layout.resfiles.intermediate
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\resources.resfiles
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\resources.resfiles.intermediate
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\pri.resfiles
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\pri.resfiles.intermediate
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\qualifiers.txt
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Przemek\Desktop\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\ProjectArchitectures.txt
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\App.xbf
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\MainPage.xbf
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.xr.xml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.exe
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.pdb
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\resources.pri
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\AppxManifest.xml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\bin\Debug\Przemysław Chroboczek.build.appxrecipe
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.g.i.cs
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.g.cs
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.g.i.cs
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.g.cs
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\XamlTypeInfo.g.cs
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.xaml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.xaml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\App.xbf
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MainPage.xbf
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\XamlSaveStateFile.xml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\Przemysław Chroboczek.exe
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\Przemysław Chroboczek.pdb
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\priconfig.xml
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\priconfig.xml.intermediate
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\layout.resfiles
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\layout.resfiles.intermediate
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\resources.resfiles
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\resources.resfiles.intermediate
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\pri.resfiles
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\pri.resfiles.intermediate
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\qualifiers.txt
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\qualifiers.txt.intermediate
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UE\Materiały\Rok II\Programowanie aplikacji mobilnych\Przemysław Chroboczek\Przemysław Chroboczek\obj\Debug\ProjectArchitectures.txt
